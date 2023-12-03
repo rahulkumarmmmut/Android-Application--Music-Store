@@ -28,6 +28,7 @@ The main page showcases the user's name, profile image, and current reward point
 First Button - ALL TXNS
 
 Clicking this button reveals transaction details, including Transaction Reference Number, Transaction Date, Transaction Points, and Total Points.
+
 ![image](https://github.com/rahulkumarmmmut/LoyaltyFirst1/assets/87722928/a70615d6-ddbd-49da-9373-e1e8e0defd2e)
 
 Second Button - TXN DETAILS
