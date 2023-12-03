@@ -45,6 +45,7 @@ Clicking this button reveals prize details that users can obtain using their acc
 Fourth Button - ADD % TO FAMILY
 
 Upon clicking this button, users can select a transaction to transfer points to a family member. The top section includes a spinner with multiple transactions, displaying transaction points, family ID, and family percentage. Clicking the "ADD FAMILY POINTS" button calculates the points to be transferred, distributing them among the associated family members.
+
 ![image](https://github.com/rahulkumarmmmut/LoyaltyFirst1/assets/87722928/1661e414-eecc-45f6-9e85-b63d81cf6729)
 
 
