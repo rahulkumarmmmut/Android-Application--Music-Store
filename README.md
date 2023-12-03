@@ -15,6 +15,8 @@ Login Page:
 
 Upon accessing the login page, users are prompted to enter their username and password. If incorrect credentials are provided, a notification toast will display indicating an incorrect password.
 ![image](https://github.com/rahulkumarmmmut/LoyaltyFirst1/assets/87722928/da103a6d-24cf-471e-8c11-f46bee8fb3da)
+![image](https://github.com/rahulkumarmmmut/LoyaltyFirst1/assets/87722928/6f52d36f-e554-460b-8672-c0f832bcaee2)
+
 
 Main Page: 
 
